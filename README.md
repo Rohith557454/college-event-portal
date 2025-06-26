@@ -78,7 +78,7 @@ A web application for managing college events, registrations, and admin approval
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Rohith557454/college-event-portal>
 cd events-portal
 ```
 
@@ -157,4 +157,4 @@ See `schema.sql` for full details.
 
 ## License
 
-MIT License (or specify your own). # college-event-portal
+MIT License . # college-event-portal
